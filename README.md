@@ -167,11 +167,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
-# 💡 Quote
-
-> **"Code. Learn. Build. Repeat."**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 <div align="center">
 
