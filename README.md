@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 # 🚀 Featured Projects
 
@@ -113,7 +113,7 @@
 - MongoDB
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 # 📊 GitHub Statistics
 
@@ -125,7 +125,7 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 # 🔥 GitHub Streak
 
@@ -135,7 +135,7 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 # 📈 Contribution Graph
 
@@ -145,7 +145,7 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 # 🏆 GitHub Trophies
 
@@ -155,7 +155,7 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 # 👀 Profile Views
 
@@ -165,13 +165,13 @@
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 # 💡 Quote
 
 > **"Code. Learn. Build. Repeat."**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 <div align="center">
 
