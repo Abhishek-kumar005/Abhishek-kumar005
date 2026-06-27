@@ -71,12 +71,39 @@
 
 # 🚀 Featured Projects
 
-### 📚 LMS Platform
+🚀 Featured Projects
+
+
+### 🎥 QuickMeet
+
+- Real-time Video Calling Platform
+- WebRTC Peer-to-Peer Communication
+- Screen Sharing & Meeting Rooms
+- Socket.IO Signaling Server
+
+### 🤖 AskNova
 
 - JWT Authentication
-- Admin & Student Dashboard
-- Course Management
+- Gemini API Integration
+- Chat History & Threads
+- Responsive UI
 - MERN Stack
+
+
+### ⚡ CodeVoult
+
+- Full-Stack GitHub Clone
+- Repository Creation, Forking & Management
+- Secure JWT Authentication
+- User Profiles & Project Showcase
+- Built with React, Node.js, Express & MongoDB
+
+### 🏠Guestora
+
+- Vacation Rental Marketplace
+- Property Listings & Booking Flow
+- Authentication & Authorization
+- Responsive MERN Stack Application
 
 ### ✅ Task Manager
 
@@ -85,11 +112,6 @@
 - REST API
 - MongoDB
 
-### 🌐 Portfolio Website
-
-- Responsive UI
-- Dark Mode
-- Projects Showcase
 
 ---
 
