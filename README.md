@@ -54,7 +54,7 @@
 
 <!-- BACKEND -->
 <h3>🧠 Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql,prisma" />
 
 <!-- PROGRAMMING LANGUAGES -->
 <h3>💻 Programming Languages</h3>
